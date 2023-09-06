@@ -16,7 +16,7 @@
 
 
 <summary>
-  <:open_mouth: alt="Eyes" width="2%" /> 내가 배우고 싶은 언어는
+ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="fire" width="2%" /> 내가 배우고 싶은 언어는
 </summary>
    <br>
   
