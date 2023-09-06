@@ -4,7 +4,7 @@
 <br>저는 웹 개발자로 취업하기 위해 공부 중인 최선민 입니다:clap::fire:
 
 <summary>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2%" /> 내가 지금 배우는 언어는 
+ :pig: 내가 지금 배우는 언어는 
 </summary>
    <br>
   
@@ -16,7 +16,7 @@
 
 
 <summary>
- :open_mouth: 내가 배우고 싶은 언어는
+ :tiger: 내가 배우고 싶은 언어는
 </summary>
    <br>
   
