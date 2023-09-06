@@ -6,7 +6,7 @@
 <br>
 
 <summary>
- :pig: 내가 지금 배우는 언어는 
+ :pig: 제가 지금 배우는 언어는 
 </summary>
    <br>
   
@@ -18,7 +18,7 @@
 
 
 <summary>
- :tiger: 내가 배우고 싶은 언어는
+ :tiger: 제가 배우고 싶은 언어는
 </summary>
    <br>
   
