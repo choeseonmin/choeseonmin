@@ -2,7 +2,7 @@
 
 안녕하세요:raised_hands: 
 <br>저는 웹 개발자로 취업하기 위해 공부 중인 최선민 입니다:clap::fire:
-<details>
+
 <summary>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2%" /> 내가 지금 배우는 언어는 
 </summary>
@@ -12,7 +12,7 @@
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white). ![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![MariaDB](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  ![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) 
 
 
-</details>
+
 
 
 <summary>
