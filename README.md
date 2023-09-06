@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=150&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Cylinder&color=auto&height=150&section=header&text=capsule%20render&fontSize=90)
 
 안녕하세요! 저는 웹 개발자로 취업하기 위해 공부 중인 최선민 입니다.
 
