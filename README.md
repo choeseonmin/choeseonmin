@@ -1,6 +1,6 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 
-만나서 반갑습니다.
+안녕하세요! 저는 웹 개발자로 취업하기 위해 공부 중인 최선민 입니다.
 
 <!--
 **choeseonmin/choeseonmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
